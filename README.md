@@ -22,7 +22,7 @@ Os exercícios deste repositório possuem foco em desenvolver soluções mais co
 * Módulo `datetime`
 * Módulo `csv`
 * Tratamento de erros (`try/except`)
-
+* Modulo tkinter
 ---
 
 ## 🎯 Objetivo
