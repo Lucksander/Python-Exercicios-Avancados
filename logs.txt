@@ -1,0 +1,3 @@
+[28/05/2026 03:37:34] [INFO] Sistema iniciado
+[28/05/2026 03:37:34] [WARNING] Memória quase cheia
+[28/05/2026 03:37:34] [ERROR] Falha ao conectar ao banco de dados
