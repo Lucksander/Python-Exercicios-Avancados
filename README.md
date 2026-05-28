@@ -107,4 +107,4 @@ Novos exercícios e melhorias poderão ser adicionados conforme a evolução dos
 ## 👨‍💻 Autor
 
 Lucas Santos
-Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas.
